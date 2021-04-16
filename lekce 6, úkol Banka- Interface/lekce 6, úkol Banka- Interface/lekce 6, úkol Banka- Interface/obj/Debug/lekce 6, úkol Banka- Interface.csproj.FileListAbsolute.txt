@@ -1,0 +1,7 @@
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\obj\Debug\lekce 6, úkol Banka- Interface.csprojAssemblyReference.cache
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\obj\Debug\lekce 6, úkol Banka- Interface.csproj.CoreCompileInputs.cache
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\bin\Debug\lekce 6, úkol Banka- Interface.exe.config
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\bin\Debug\lekce 6, úkol Banka- Interface.exe
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\bin\Debug\lekce 6, úkol Banka- Interface.pdb
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\obj\Debug\lekce 6, úkol Banka- Interface.exe
+C:\Users\tl-smidova\Desktop\IT\C#2 jaro 2021\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\lekce 6, úkol Banka- Interface\obj\Debug\lekce 6, úkol Banka- Interface.pdb
